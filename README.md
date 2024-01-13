@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KapPetrov
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Arduino Programming
-- 💞️ I’m looking to collaborate on [NULL]
 - 📫 How to reach me Discord: Based Russian
 
 <!---
